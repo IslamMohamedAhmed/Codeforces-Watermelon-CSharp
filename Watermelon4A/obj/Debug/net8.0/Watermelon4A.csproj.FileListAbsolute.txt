@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\bin\Debug\net8.0\Watermelon4A.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\bin\Debug\net8.0\Watermelon4A.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\bin\Debug\net8.0\Watermelon4A.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\bin\Debug\net8.0\Watermelon4A.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\bin\Debug\net8.0\Watermelon4A.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\obj\Debug\net8.0\Watermelon4A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\obj\Debug\net8.0\Watermelon4A.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\obj\Debug\net8.0\Watermelon4A.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\obj\Debug\net8.0\Watermelon4A.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\obj\Debug\net8.0\Watermelon4A.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\obj\Debug\net8.0\refint\Watermelon4A.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\obj\Debug\net8.0\Watermelon4A.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\obj\Debug\net8.0\Watermelon4A.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Watermelon4A\Watermelon4A\obj\Debug\net8.0\ref\Watermelon4A.dll

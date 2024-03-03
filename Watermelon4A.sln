@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watermelon4A", "Watermelon4A\Watermelon4A.csproj", "{1DD7D40B-38AC-4D2D-BFC7-6EBD786E2822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DD7D40B-38AC-4D2D-BFC7-6EBD786E2822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD7D40B-38AC-4D2D-BFC7-6EBD786E2822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD7D40B-38AC-4D2D-BFC7-6EBD786E2822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD7D40B-38AC-4D2D-BFC7-6EBD786E2822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B0C9192-B2F6-44D4-B9BD-3D91257F8344}
+	EndGlobalSection
+EndGlobal
